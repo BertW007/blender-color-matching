@@ -131,7 +131,7 @@ class ColorMatchingVars(bpy.types.PropertyGroup):
 
 
 class ColorMatchingStatic:
-    matching_count = 5
+    matching_count = 10
 
 
 class DestColorItem(bpy.types.PropertyGroup):
